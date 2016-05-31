@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sooheib/Desktop/MOOC/Programming Mobile Applications for Android Handheld System Part2/Week1/Lab5-AsyncTaskLab/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/sooheib/Desktop/MOOC/Programming Mobile Applications for Android Handheld System Part2/Week1/Lab5-AsyncTaskLab/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/MOOC/Programming Mobile Applications for Android Handheld System Part2/Week1/Lab5-AsyncTaskLab/app/build/intermediates/res/merged/debug/layout/feed.xml",
+        "source": "/home/sooheib/Desktop/MOOC/Programming Mobile Applications for Android Handheld System Part2/Week1/Lab5-AsyncTaskLab/app/src/main/res/layout/feed.xml"
+    }
+]
